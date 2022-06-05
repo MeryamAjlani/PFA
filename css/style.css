@@ -1,0 +1,9 @@
+div{
+    background-image: url("bg.png");
+    background-size: cover;
+    background-color: aqua;
+}
+
+form{
+    width: 500px;
+}
